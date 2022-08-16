@@ -1,0 +1,2 @@
+# HybridVRClassroom
+Hybrid VR Classroom is a cross platform virtual conferencing app for conducting remote 3D presentation, lecture or training. It also offers a set of tools to create custom interactive 3D slides (Slides of the metaverse) and offers hybrid conferencing solution. EDVR is for professors, lectures, training instructors who are seeking to deliver a class/training that requires 3D visualization effectively and remotely
